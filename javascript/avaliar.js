@@ -1,6 +1,6 @@
 
 
-let op = prompt( "Avaliação Renan : \n Escolha 3 opções: case 1 , case 2 , case 3")
+let op = Number(prompt( "Avaliação Renan : \n Escolha 3 opções: case 1 , case 2 , case 3"))
 
 switch(op){
 
